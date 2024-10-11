@@ -2,11 +2,11 @@
 This project aims to predict the number of impressions on Instagram posts using machine learning models. Two models have been used for prediction: Linear Regression and LinearSVR. The project involves the use of various features such as likes, comments, shares, and other post metadata to estimate the impressions.
 
 # Table of Contents
- Introduction
- Models and Results
- Why LinearSVR?
- Data
- Contact
+ # Introduction
+ # Models and Results
+ # Why LinearSVR?
+ # Data
+ # Contact
 
 
 # Introduction
